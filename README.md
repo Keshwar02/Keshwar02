@@ -7,10 +7,7 @@
 - `Packages`: NumPy, Pandas, Matplotlib, Seaborn, Sklearn
 - `Tools`: Excel, Power BI
 - `Statistical analysis`: Hypothesis testing, confidence interval estimation, probability distribution, descriptive statistics 
-- `ML algorithms`:
-  - Regression (Linear Regression(and its regularized variants: Ridge, Lasso, Elstic Net),Random Forest Regressor, Gradient Boosting Regression, SVR, KNN Regression)
-  - Classification (Logistic Regression, Decision Trees, Random Forest, Gradient Boosting, SVM, KNN)
-  - Clustering (k-means, hierarchical clustering, DBSCAN)
+- `Machine Learning`: Proficient in various regression, classification, and clustering algorithms.
 
 🌱 I’m currently focused on continuous learning and expanding my knowledge base in the ever-evolving fields of data science and machine learning, specifically:
 - Advanced time-series forecasting techniques
