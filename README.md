@@ -1,4 +1,4 @@
-# Hello there 👋, This is Keshwar.
+# Hello there 👋, This is Keshwar
 
 👀 I’m interested in leveraging data analysis and machine learning techniques to uncover meaningful insights and build effective predictive models that provide a glimpse into future possibilities. My passion lies in transforming raw data into actionable strategies.
 
