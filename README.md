@@ -4,7 +4,7 @@
 
 #### 🛠️ Technical Proficiency
 - `Languages`: Python, SQL
-- `Packages`: NumPy, Pandas, Matplotlib, Seaborn, Sklearn
+- `Packages`: NumPy, Pandas, Matplotlib, Seaborn, Sklearn, Statsmodels, TensorFlow, Selenium, Streamlit
 - `Tools`: Excel, Power BI
 - `Statistical analysis`: Hypothesis testing, confidence interval estimation, probability distribution, descriptive statistics 
 - `Machine Learning`: Proficient in various regression, classification, and clustering algorithms.
