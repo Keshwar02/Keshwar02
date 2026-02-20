@@ -19,9 +19,6 @@
   - Let's connect! You can find me on [LinkedIn](https://www.linkedin.com/in/keshwar-reddy-7b1741354/)
   - or drop me a line at [keshwarreddy02@gmail.com](keshwarreddy02@gmail.com)
 
-
-⚡ Fun fact: Just like Hyderabad is known for its pearls and biryani, I'm hoping my data insights will be just as valuable and flavorful!
-
 <!---
 Keshwar02/Keshwar02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
